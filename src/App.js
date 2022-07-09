@@ -1,8 +1,12 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import SideNavigation from './components/SideNavigation';
 
 function App() {
   return (
-    <div className="App">
+    <div className="p-10">
+      <Navbar/>
+      {/* <SideNavigation/> */}
     </div>
   );
 }
