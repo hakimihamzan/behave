@@ -13,6 +13,7 @@ function SideNavbar() {
   const collapse = (e)=>{
     console.log('Hi')
     //TODO add logic to move container when clicked
+    //Testing
   }
   
   return (
